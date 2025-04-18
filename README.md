@@ -1,25 +1,26 @@
 # Presto
 This the submission project of Presto UI Design Challenge.
 
-UI Design Challenge - Presto
+**UI Design Challenge - Presto**
 
 By: Nitin Nandan
 
-🎯Task
+**🎯Task**
 To demonstrate understanding of UI/UX principles by redesigning a single page within the Presto platform, justifying design choices, and iterating based on feedback.
 
-📝Problem Statement
+**📝Problem Statement**
 The current Presto Assistant interface appears minimalistic but lacks guidance, context, and visual hierarchy, which can result in user confusion and reduced engagement, especially for new users unfamiliar with the tool.
-
-⚒️ Software Used
+**
+⚒️ Software Used**
 Figma
 Miro
 
-🪄Solution (Presto Assistant Page)
+**🪄Solution (Presto Assistant Page)**
 
 New UI of Presto Assitant Page
 
-🎯 User Needs: How the New Presto UI Better Meets User Expectations
+**🎯 User Needs: How the New Presto UI Better Meets User Expectations**
+
 The redesigned Presto interface isn't just visually improved—it’s functionally superior. It incorporates essential UX laws and psychological cues that help users feel more in control, less overwhelmed, and more likely to succeed in completing their AI-driven tasks. Here's how:
 
 👋 1. Personalized Welcome & Familiar Flow
@@ -54,7 +55,7 @@ The redesign embodies user-centered thinking, pairing beautiful aesthetics with 
 
 
 
-🎨 Design Choices: Rational, Purposeful & User-Centric
+**🎨 Design Choices: Rational, Purposeful & User-Centric**
 The redesigned UI for Presto is driven by intentional design thinking—balancing aesthetics with usability to deliver an interface that feels intuitive, elegant, and efficient. Here's the rationale behind each major design decision:
 
 ✅ Layout: Structured for Focus and Flow
@@ -68,7 +69,6 @@ The central area is dedicated to user interaction (task creation), enhancing tas
 
 
 Clear visual hierarchy, ample spacing, and alignment ensure high readability and scannability across the page.
-
 
 
 ✍️ Typography: Clean, Modern, and Readable
@@ -113,7 +113,8 @@ The floating tip bar and task suggestions improve engagement while being non-int
 
 
 
-♿ Accessibility Considerations for Presto Assistant
+**♿ Accessibility Considerations for Presto Assistant**
+
 Designing with inclusivity in mind was a key part of the new Presto UI. The goal is to ensure that all users, regardless of physical or cognitive ability, can navigate and use the platform with ease. Here’s how the new design addresses accessibility:
 
 ✅ 1. Clean Layout with Clear Visual Hierarchy
@@ -146,7 +147,8 @@ Allowing users to switch to a high-contrast theme or enable dyslexia-friendly fo
 
 Adding accessibility settings in the profile section for full customization.
 
-🔁 Iteration Plan: Improving the Presto Assistant Experience
+**🔁 Iteration Plan: Improving the Presto Assistant Experience**
+
 To ensure that the redesign of the Presto Assistant page truly enhances the user experience, we’ll follow a structured and feedback-driven iteration plan. The approach is divided into key phases to test, learn, and improve based on both qualitative and quantitative user insights.
 
 🚀 Phase 1: Initial Launch (Beta Rollout)
